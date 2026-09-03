@@ -1,19 +1,21 @@
+<!-- ===== HERO BANNER (theme-aware: dark mode / light mode) ===== -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,50:12172A,100:1A1A2E&height=220&section=header&text=YASIRU%20RAVISARA%20FERNANDO&fontSize=34&fontColor=22D3EE&animation=fadeIn&fontAlignY=32&desc=Jack-of-all-trades%20Mechatronics%20Engineer&descAlignY=52&descAlign=50&descColor=A78BFA" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,50:EDE9FE,100:FFFFFF&height=220&section=header&text=YASIRU%20RAVISARA%20FERNANDO&fontSize=34&fontColor=0891B2&animation=fadeIn&fontAlignY=32&desc=Jack-of-all-trades%20Mechatronics%20Engineer&descAlignY=52&descAlign=50&descColor=7C3AED" />
+  <img alt="Yasiru Ravisara Fernando" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,50:12172A,100:1A1A2E&height=220&section=header&text=YASIRU%20RAVISARA%20FERNANDO&fontSize=34&fontColor=22D3EE&desc=Jack-of-all-trades%20Mechatronics%20Engineer&descAlignY=52&descAlign=50&descColor=A78BFA" />
+</picture>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:1A1A2E,100:16213E&height=220&section=header&text=YASIRU%20RAVISARA%20FERNANDO&fontSize=36&fontColor=00F5FF&animation=fadeIn&fontAlignY=32&desc=Jack-of-all-trades%20Mechatronics%20Engineer&descAlignY=52&descAlign=50&descColor=FF00E5" width="100%"/>
-
-<a href="https://linkedin.com/in/yasiru-fernando2004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0F0F1A" /></a>
-<a href="https://instagram.com/ravisara_2004"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FF00E5&labelColor=0F0F1A" /></a>
-<a href="https://github.com/YasiruRF"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0F0F1A" /></a>
-<img src="https://komarev.com/ghpvc/?username=YasiruRF&style=for-the-badge&color=ff00e5&labelColor=0F0F1A&label=PROFILE+VIEWS" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+booting+yasiru.engineer...;%5B+OK+%5D+systems+engineering+module+loaded;%5B+OK+%5D+robotics+%2B+embedded+drivers+linked;%5B+OK+%5D+ml+%2B+full-stack+services+online;%3E+ready." alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=22D3EE&background=0A101FFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+booting+yasiru.engineer...;%5B+OK+%5D+systems+engineering+module+loaded;%5B+OK+%5D+robotics+%2B+embedded+drivers+linked;%5B+OK+%5D+ml+%2B+full-stack+services+online;%3E+ready." />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=0891B2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+booting+yasiru.engineer...;%5B+OK+%5D+systems+engineering+module+loaded;%5B+OK+%5D+robotics+%2B+embedded+drivers+linked;%5B+OK+%5D+ml+%2B+full-stack+services+online;%3E+ready." />
+</picture>
 
 </div>
 
-<br>
+<!-- ===== WHOAMI ===== -->
 
 ## `$ whoami`
 
@@ -22,18 +24,17 @@ name:        Yasiru Ravisara Fernando
 role:        Mechatronics Engineering Student
 discipline:  Systems Engineering · Robotics · Embedded Systems · Control · Applied ML · Full-Stack
 philosophy:  "If it has a motor, a microcontroller, or a model — I'll build it."
-status:      Actively shipping hardware + software, in parallel, always.
 looking_for: Internships / collab on robotics, embedded & systems engineering projects
 ```
 
-I move across the full stack of a physical system — from the silicon and signal timing at the bottom, through firmware and control loops, up to the ML models and interfaces that sit on top, tied together with a systems engineering eye for how the pieces actually have to work as a whole. Coursework in robotics, embedded systems, digital electronics, and machine learning; project work that rarely stays inside one of those lanes.
+I move across the full stack of a physical system — from silicon and signal timing at the bottom, through firmware and control loops, up to the ML models and interfaces on top — tied together with a systems engineering eye for how the pieces actually work as a whole.
 
-<br>
+<!-- ===== SKILLS ===== -->
 
 ## `$ ls skills/`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab,ros,arduino,cpp,figma,git,nextjs,vercel,supabase,docker,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab,ros,arduino,figma,git,nextjs,vercel,supabase,docker,aws&theme=dark" />
 </div>
 
 <div align="center">
@@ -48,7 +49,65 @@ I move across the full stack of a physical system — from the silicon and signa
 
 </div>
 
-<br>
+<!-- ===== GITHUB STATS (theme-aware) ===== -->
+
+## `$ ./run_stats.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YasiruRF&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=YasiruRF&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Yasiru's streak" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YasiruRF&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YasiruRF&show_icons=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Yasiru's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruRF&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruRF&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
+</div>
+
+<!-- ===== TROPHIES ===== -->
+
+## `$ ./trophies --rare`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YasiruRF&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YasiruRF&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies" />
+</picture>
+
+</div>
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+## `$ git log --graph --oneline`
+
+<!--
+  Setup note: this animates once you add the Platane/snk GitHub Action to this
+  repo (YasiruRF/YasiruRF) — it commits snake-dark.svg / snake-light.svg to an
+  "output" branch automatically on every push. Ask Claude for the workflow file
+  if you want this wired up.
+-->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasiruRF/YasiruRF/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasiruRF/YasiruRF/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YasiruRF/YasiruRF/output/snake-dark.svg" />
+</picture>
+
+</div>
+
+<!-- ===== FEATURED BUILDS ===== -->
 
 ## `$ cat featured_builds.log`
 
@@ -58,7 +117,7 @@ I move across the full stack of a physical system — from the silicon and signa
 **🤖 [nos](https://github.com/YasiruRF/nos)** — `ROS2 · Python`
 Node Orchestration System for ROS2, coordinating robotic nodes. *In development.*
 
-**🕷️ ESP32 Hexapod**  — `ESP32 · C++`
+**🕷️ ESP32 Hexapod** — `ESP32 · C++`
 Pet-like hexapod with expressive, personality-driven movement.
 
 **🎭 ESP32 TFT Face** — `ESP32 · ST7735 · C++`
@@ -90,53 +149,27 @@ Two architectures, grid-searched hyperparameters, task-allocation prediction.
 </td></tr>
 </table>
 
-<br>
-
-## `$ ./run_stats.sh`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YasiruRF&show_icons=true&theme=synthwave&hide_border=true&bg_color=0F0F1A&title_color=00F5FF&icon_color=FF00E5&text_color=E0E0E0" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasiruRF&theme=synthwave&hide_border=true&background=0F0F1A&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruRF&layout=compact&theme=synthwave&hide_border=true&bg_color=0F0F1A&title_color=00F5FF&text_color=E0E0E0" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasiruRF&theme=synthwave&bg_color=0F0F1A&color=00F5FF&line=FF00E5&point=FFFFFF&hide_border=true" height="165"/>
-</div>
-
-<br>
-
-## `$ ./trophies --rare`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YasiruRF&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-</div>
-
-<br>
-
-## `$ git log --graph --oneline`
-
-<!--
-  Unique touch: a live "contribution snake" that eats your commit graph.
-  Add this as a GitHub Action (Platane/snk) in your profile repo — it regenerates
-  the SVG below automatically on every push, so this section stays alive.
--->
-<div align="center">
-<img src="https://raw.githubusercontent.com/YasiruRF/YasiruRF/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-</div>
-
-<br>
+<!-- ===== SOCIAL BADGES ===== -->
 
 ## `$ contact --open-to-work`
 
 <div align="center">
 
-📡 **[LinkedIn](https://linkedin.com/in/yasiru-fernando2004)** — the professional signal
-📸 **[Instagram](https://instagram.com/ravisara_2004)** — the human signal
-💻 **[GitHub](https://github.com/YasiruRF)** — you're already here
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213E,50:1A1A2E,100:0F0F1A&height=100&section=footer" width="100%"/>
+<a href="https://linkedin.com/in/yasiru-fernando2004">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/ravisara_2004">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/YasiruRF">
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=10B981&labelColor=0A101F" alt="GitHub" />
+</a>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:12172A,100:0A101F&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:EDE9FE,100:E0F2FE&height=100&section=footer" />
+</picture>
