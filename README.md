@@ -86,8 +86,7 @@ I move across the full stack of a physical system, from the silicon and signal t
 
 ## `> stats`
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YasiruRF&show_icons=true&theme=synthwave&hide_border=true&bg_color=0F0F1A&title_color=00F5FF&icon_color=FF00E5&text_color=E0E0E0" height="165"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruRF&layout=compact&theme=synthwave&hide_border=true&bg_color=0F0F1A&title_color=00F5FF&text_color=E0E0E0" height="165"/></div>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 <div align="center">
