@@ -85,7 +85,7 @@ I move across the full stack of a physical system, from the silicon and signal t
 <br>
 
 ## `> stats`
-<center>
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasiruRF&theme=synthwave&hide_border=true&background=0F0F1A&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF" height="165"/></div>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
