@@ -88,12 +88,18 @@ I move across the full stack of a physical system, from the silicon and signal t
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YasiruRF&show_icons=true&theme=synthwave&hide_border=true&bg_color=0F0F1A&title_color=00F5FF&icon_color=FF00E5&text_color=E0E0E0" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasiruRF&theme=synthwave&hide_border=true&background=0F0F1A&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF" height="165"/>
-</div>
 
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruRF&layout=compact&theme=synthwave&hide_border=true&bg_color=0F0F1A&title_color=00F5FF&text_color=E0E0E0" height="165"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasiruRF/YasiruRF/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasiruRF/YasiruRF/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/YasiruRF/YasiruRF/output/snake-dark.svg" />
+</picture>
+
 </div>
+<!-- ===== END SNAKE ===== -->
 
 <br>
 
